@@ -1,5 +1,5 @@
 {
-  "name": "immutablediff",
+  "name": "@anyjunk/immutablediff",
   "version": "0.4.4",
   "description": "Create RFC 6902 style patches between Immutable.JS data structures",
   "main": "src/diff.js",
@@ -16,9 +16,9 @@
   ],
   "author": "Intelie",
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/intelie/immutable-js-diff.git"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/intelie/immutable-js-diff.git"
   },
   "devDependencies": {
     "gulp": "^3.8.9",
